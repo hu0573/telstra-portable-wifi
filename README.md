@@ -1,6 +1,5 @@
 # Telstra Portable WiFi Toolbox
 
-![Telstra Logo](telstra_logo.png)
 
 This repository contains a set of Python scripts to enhance the functionality of your Telstra Portable WiFi device. With these tools, you can conveniently manage your device, send and receive SMS messages, and even perform a remote reboot. These features are useful for maintaining and utilizing your Telstra Portable WiFi to its full potential.
 
