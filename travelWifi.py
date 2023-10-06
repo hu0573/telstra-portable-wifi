@@ -94,8 +94,8 @@ class travelWifi:
                 'Type': message.find('SmsType').text
             }
             messages.append(msg_details)
-
         return messages
+        
     def send_sms(self,phone_number, message_content, headers={'Content-Type': 'application/xml'}):
         """
         Send an SMS using the provided phone number and message content.
@@ -122,4 +122,3 @@ class travelWifi:
 
         # Return the response for further analysis
         return response.text
-
