@@ -11,17 +11,3 @@ The Telstra Portable WiFi Toolbox provides the following features:
 2. **Send SMS**: Send text messages from your Telstra Portable WiFi device using Python scripts. This allows you to automate messaging tasks or send messages from your computer.
 
 3. **Receive SMS**: Retrieve and read text messages sent to your Telstra Portable WiFi device. You can access incoming messages directly from your computer or server.
-
-## Contributing
-
-If you'd like to contribute to this project or have suggestions for improvement, please open an issue or submit a pull request. Your contributions are highly welcome!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to the Telstra Portable WiFi community for their support and contributions to this project.
-
-Feel free to customize this README to include any additional details, usage instructions, or acknowledgments specific to your project.
